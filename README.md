@@ -1,4 +1,4 @@
-# 🌙 Dream Catcher
+# 🌙 Dream Catcher - In Progress...
 
 A comprehensive dream journaling platform that enables users to capture, organize, and analyze their dreams through multiple media formats including text, audio, and video recordings.
 
@@ -7,6 +7,29 @@ A comprehensive dream journaling platform that enables users to capture, organiz
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.5.0-green.svg)](https://mongodb.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
+Home
+<img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/5bc09c2c-fcfa-4a76-8494-56f182cfe698" />
+Features
+<img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/5a48fc75-357c-42a3-9ae5-72448d1b4185" />
+
+Dashboard
+<img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/54f26307-0fc2-4ad3-8bd6-abb28d6747d1" />
+
+Profile
+<img width="1439" height="856" alt="image" src="https://github.com/user-attachments/assets/73cba294-5ed2-4eaa-95b1-eaeb0e979f67" />
+
+Admin System Log Analyzer
+<img width="1243" height="746" alt="image" src="https://github.com/user-attachments/assets/a47d0a6e-d969-45a8-8861-c057f7e62106" />
+
+Dream Calendar Streak
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/1c358fdb-b5f6-461a-aad2-545bd878fb14" />
+
+Add New Dream
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/48ecebbe-383b-4893-a038-1ce79e4ec415" />
+
+
 
 ## ✨ Features
 
